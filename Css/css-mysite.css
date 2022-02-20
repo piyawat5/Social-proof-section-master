@@ -1,4 +1,5 @@
 body {
+
   font-size: 15px;
   text-align: left;
   font-family: 'Spartan', sans-serif;
@@ -11,10 +12,13 @@ body {
 }
 
 main {
+
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  width:100vw;
+
 }
 
 .box {
